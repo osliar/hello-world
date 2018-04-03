@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+
+Hi everbody!!
+
+emmm, who am i? where am i? what am doing?
